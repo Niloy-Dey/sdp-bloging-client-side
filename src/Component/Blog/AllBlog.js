@@ -6,6 +6,8 @@ const AllBlog = ({blog}) => {
     return (
         <div className='my-20'>
             <div class="post card p-5 shadow-lg">
+
+                
             <img src={ image} alt="" class="image h-[80vh] w-[100vw]"/>
             <div class="date text-orange-400 my-1 ">
                 <i class="far fa-clock"></i>
